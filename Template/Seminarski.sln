@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{DBC425E2-893E-4602-8384-3600421AE849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seminarski", "Template\Seminarski.csproj", "{DBC425E2-893E-4602-8384-3600421AE849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Contracts\Interfaces.csproj", "{5D6BEB7D-FD7E-49FE-A5CF-E91AA4847A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Contracts\Interfaces.csproj", "{5D6BEB7D-FD7E-49FE-A5CF-E91AA4847A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{F6182AE0-0D05-42CF-B766-B390929C03A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "LoggerService\LoggerService.csproj", "{F6182AE0-0D05-42CF-B766-B390929C03A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Models\Entities.csproj", "{5E2DE4E2-BFE6-49B5-A10A-1B544B6CF6A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Models\Entities.csproj", "{5E2DE4E2-BFE6-49B5-A10A-1B544B6CF6A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
